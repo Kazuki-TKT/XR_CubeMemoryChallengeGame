@@ -4,9 +4,7 @@ VR 空間で出題されるキューブの配置を覚え、その通りにキ�
 
 # DEMO 動画
 
-<div>
-<iframe width="600" height="400" src="https://youtu.be/U58myvjoOKI"></iframe>
-</div>
+[![DEMO動画](https://img.youtube.com/vi/U58myvjoOKI/0.jpg)](https://www.youtube.com/watch?v=U58myvjoOKI)
 
 # 使用アセット＆仕様素材
 
@@ -26,4 +24,4 @@ VR 空間で出題されるキューブの配置を覚え、その通りにキ�
 
 # Written code
 
->
+> https://github.com/t3a3/XR_CubeMemoryChallengeGame/tree/main/Assets/Scripts
