@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/Audio
+/[Aa]ssets/FarlandSkies
+/[Aa]ssets/VRTemplateAssets
+/[Aa]ssets/UI and Item Sound Effects
+/[Aa]ssets/Samples/XR Interaction Toolkit/2.5.4
